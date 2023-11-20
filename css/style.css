@@ -87,8 +87,4 @@ body {
       width: 100%;
       overflow-x: hidden;
     }
-    body nav .container .navbar-toggler {
-position: absolute;
-      right: 10px;
-    }
   }
